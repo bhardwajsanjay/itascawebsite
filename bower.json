@@ -1,0 +1,17 @@
+{
+  "name": "itascawebsite",
+  "description": "Itasca Website usng Mean",
+  "main": "index.js",
+  "authors": [
+    "Sanjay Kumar Bhardwaj"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/bhardwajsanjay/itascawebsite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
